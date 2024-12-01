@@ -2,15 +2,6 @@
 
 This repository contains code for an AI image generation program built in Python. Follow the instructions below to run the program either in Google Colab or locally on your machine.
 
-## Running in Google Colab
-
-1. Open the Google Colab notebook: [Link](https://colab.research.google.com/drive/123ZtMp35m_5ITFdkdJ1aDeakxZHwbf_2?usp=sharing)
-2. Change the runtime to use a T4 GPU:
-   - Click on `Runtime` in the menu.
-   - Select `Change runtime type`.
-   - Choose `GPU` and select `T4` from the dropdown.
-3. Simply run the code cells in the notebook to generate images.
-
 ## Running Locally
 
 To run the program locally, follow these steps:
